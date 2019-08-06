@@ -1,2 +1,3 @@
-# bunniescode.github.io
-bunniescode.github.io
+# Bunnies' Coding Club
+
+We like bunny and coding!
